@@ -77,7 +77,4 @@
 - **Student & Educator**:  
   - Organize fair elections for class representatives.  
 
----
-
-## License
-Add the **MIT License** to define usage terms.  
+--- 
