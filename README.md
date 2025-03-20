@@ -2,6 +2,36 @@
 
 An all-in-one virtual learning platform designed to enhance the online education experience. Manage courses, track progress, and engage in interactive learning with ease.
 
+---
+
+## 📥 Installation Guide
+
+### 🔧 Backend Setup
+1. Extract the backend files.
+2. Open a terminal and navigate to the backend directory.
+3. Install dependencies by running:
+   ```bash
+   npm install
+   ```
+4. Start the backend server with:
+   ```bash
+   npm start
+   ```
+
+### 🎨 Frontend Setup
+1. Extract the frontend files.
+2. Open a terminal and navigate to the frontend directory.
+3. Install dependencies by running:
+   ```bash
+   npm install
+   ```
+4. Start the frontend server with:
+   ```bash
+   npm run dev
+   ```
+
+---
+
 ## 🚀 Features
 
 ### 📚 Interactive Learning
@@ -29,5 +59,10 @@ An all-in-one virtual learning platform designed to enhance the online education
 - 📑 Organize fair elections for class representatives.
 - 🔍 Add filters and analytics dashboards.
 
-📌 Stay engaged and make online learning more effective with **Virtual Classroom Application**! 🚀
+---
 
+## 📧 Environment Variables
+
+For queries regarding the `.env` file setup, please contact:
+
+📩 **Email:** `ragulkarthick832@gmail.com`
