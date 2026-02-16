@@ -66,3 +66,4 @@ An all-in-one virtual learning platform designed to enhance the online education
 For queries regarding the `.env` file setup, please contact:
 
  **Email:** `ragulkarthick832@gmail.com` 
+ **Email:** `srinidhijayakumarsk@gmail.com` 
